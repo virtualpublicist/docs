@@ -6,7 +6,7 @@ section: content
 ---
 # How to Use the Press Release Generator on Virtual Publicist
 
-Creating professional press releases is simplified using **Virtual Publicist’s Press Release Generator**. Follow these steps to create, analyze, and save your press release effectively:
+Creating professional press releases is simplified using **Virtual Publicist’s Press Release Generator**. Follow these steps to create and save your press release effectively:
 
 ![Alt text](/assets/images/press-release.png)
 
@@ -21,8 +21,35 @@ Creating professional press releases is simplified using **Virtual Publicist’s
 
 ---
 
-### Complete the Questionnaire
-You’ll see a form containing important questions about your musical background and journey. Example questions include:
+### Press Release List
+
+When you access the Press Release section, you’ll see a list of all your press releases. For each press release, you have the following options:
+
+- Remove: Delete any press release you no longer need.
+- Share: Easily share your press release.
+- Add to New Campaign: Include your press release in a new campaign with just one click.
+
+---
+
+### Creating a New Press Release
+
+Click the Create Press Release button to start drafting a new press release. You can:
+
+- Enter Press Release Title
+- Add a Cover Image
+- Set the Release Date
+- Write Your Content
+
+You’ll also find additional tools:
+
+- Generate Content: Use AI to help write or improve your press release.
+- Load a Template: Start with a press release template for faster drafting.
+- Reset Message: Clear all fields and start fresh if needed.
+
+---
+
+### Generate a Press Release by Completing the Questionnaire
+If you prefer guided help, you can create a press release by answering a simple form. Click Complete the Questionnaire to begin. The form includes questions about your musical journey and background, such as:
 
 - **Where were you born and raised, and where are you currently based (city)?**
 - **What made you decide to officially step into the music industry? How did you start, and what has your journey been like so far?**
@@ -36,13 +63,6 @@ You’ll see a form containing important questions about your musical background
 ### Generate Your Press Release
 - Once you've completed answering the questions, click the **"Create Press Release"** button.
 - The **Press Release Generator** will automatically create a professional press release based on your responses.
-
----
-
-### Review Analytics
-- On the **right-hand side** of the page, you'll see analytics related to your press release content:
-
-  - **Keyword Analytics**: View insights about important keywords and how effectively they contribute to your press release.
 
 ---
 

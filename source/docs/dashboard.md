@@ -32,33 +32,30 @@ Quick shortcuts for common campaigns:
 
 ### Find Contacts
 
-#### Suggested Lists for You:
-Curated just for you—these handpicked contact lists match your outreach goals, enabling you to connect with the right people and effortlessly boost your media presence.
-
-#### Newest Contact Lists:
-Discover the latest contact lists added to our platform, keeping you ahead with fresh connections and opportunities.
-
-#### Newest Contacts:
-Connecting early with newly added contacts increases your chances of getting noticed and receiving timely replies.
+By clicking on Find Contacts or the Search tab in the dashboard, you’ll access the advanced search page. Here, you can browse and find specific contacts or lists tailored to your needs.
 
 ---
 
-### Create Press Release
-Easily draft and distribute professional press releases directly from your [dashboard](https://app.virtualpublicist.ai).
+### Suggested Lists for You
+Curated just for you—these handpicked contact lists match your outreach goals, enabling you to connect with the right people and effortlessly boost your media presence.
+
+
+### Newest Contacts:
+Connecting early with newly added contacts increases your chances of getting noticed and receiving timely replies.
 
 ---
 
 ## Menu Bar (Left-hand Side)
 
 - **Dashboard**: Home page with a summary of activities and quick access tools.
-- **Search**: Quickly find specific contacts, campaigns, or content.
-- **Press Releases**: Manage and create press releases.
 - **Virtual Assistant**: Get AI-driven support and suggestions for your campaigns.
-- **Favorite Contacts**: Manage and easily access your preferred contacts.
-- **Lists (Contact Collections)**: Organize contacts into curated lists.
-- **Campaigns**: View and manage all your outreach activities.
+- **Press Releases**: Manage and create press releases.
+- **Search**: Quickly find specific contacts, campaigns, or content.
+- **Smart Lists**: Organize contacts into curated lists.
 - **Inbox**: Check messages and replies to your outreach.  
   > _Currently showing 10 Messages_, indicating each user can create and manage up to **10 campaigns simultaneously**.
+- **Campaigns**: View and manage all your outreach activities.
+
 
 ---
 
@@ -70,11 +67,10 @@ Displays your **current plan** (e.g., _Free Plan_) along with your **name and em
 ## Dropdown Menu Options
 
 - **Public Profile**
-- **Public Profile Settings**
-- **Account Settings**
-- **Upgrade Plan**
-- **Toggle Dark/Light Mode**
+- **Settings**
+- **Account Settings** (includes profile settings, social channels, password, appearance)
 - **Log Out**
+- **Upgrade Plan**
 
 ---
 

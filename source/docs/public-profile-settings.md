@@ -8,34 +8,25 @@ section: content
 
 Your **public profile settings** on **Virtual Publicist** allow you to control your online presence, showcase your music, and ensure the best possible matches with industry contacts. Follow the steps below to configure your profile:
 
-![Alt text](/assets/images/profile-setting-1.png)
+![Alt text](/assets/images/settings.png)
 
-
----
-
-## Uploading Your Profile Photo
-1. Navigate to the **[Public Profile Settings](https://app.virtualpublicist.ai/artist-profile/edit)** page.
-2. Locate the **Profile Photo** section.
-3. **Drag and drop** your desired profile picture file into the provided upload area, or click **"Choose"** to browse and select the file.
-4. Click **"Upload"** to add your photo or **"Cancel"** to discard changes.
-
----
-
-## Adding Your Spotify Artist Page
-1. Scroll to the **Spotify Artist Page** section.
-2. Paste your **Spotify Artist Page URL** into the designated text box.
-3. Click **"Save"** to activate and link your Spotify profile to your public profile.
 
 ---
 
 ## Updating Your Artist Profile Information
-In the **Artist Profile** section, update the following details:
 
-- **About**: Provide an engaging and concise description of your music, achievements, and career highlights.
-- **Tags**: Include relevant keywords describing your style, themes, and influences.
+Navigate to the **[Public Profile Settings](https://app.virtualpublicist.ai/artist-profile/edit)** page.
+
+- **Artist Name**: Enter your artist name as it will appear publicly.
+- **Country**: Select your country of residence.
 - **Genres**: Clearly select your primary music genre(s).
-- **Country**: Specify your primary country of origin or where you are based.
-- **City**: Enter the city you represent or primarily operate from.
+- **City of Residency**: Choose or enter the city where you are based.
+- **Short Biography (About Yourself)**: Provide a concise summary of your background, music, and achievements.
+- **Tags**: Add keywords that describe your musical style, roles, or influences.
+- **Genres**: Select the music genres that best represent your work.
+- **URLs**: Add links to your social media profiles, official website, or music streaming pages.
+
+
 
 Once completed, click **"Save"**.
 

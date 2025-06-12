@@ -8,7 +8,7 @@ section: content
 
 An effective artist profile on **Virtual Publicist** is key to connecting with influential contacts, editors, and industry professionals. Follow these simple steps to set up your profile and maximize your visibility:
 
-![Alt text](/assets/images/public-profile.png)
+![Alt text](/assets/images/public-profile2.png)
 
 
 ---
@@ -21,7 +21,7 @@ An effective artist profile on **Virtual Publicist** is key to connecting with i
 
 ## Complete Your Profile Information
 
-![Alt text](/assets/images/complete-public-profile.png)
+![Alt text](/assets/images/settings.png)
 
 - Once logged in, click on **"Create Your Artist Profile"**.
 - Fill out your essential details:

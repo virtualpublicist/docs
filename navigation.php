@@ -12,7 +12,7 @@ return [
     ],
     'Dashboard' => 'docs/dashboard',
     'Press Release' => 'docs/press-release',
-    'Account Settings' => 'docs/account-settings',
+    'Settings' => 'docs/account-settings',
     'Campaign Creation' => 'docs/campaign-creation',
     'Artist Profile Creation' => 'docs/creating-artist-profile',
     'Inbox' => 'docs/inbox',

@@ -33,14 +33,14 @@ Use the dropdown menu to filter emails by:
 - **Unread**: Quickly access emails you haven't opened yet.
 - **Archived**: Easily review emails you've archived previously.
 
-### **Sent**
-Access your **sent emails** here to review previous messages and keep track of your communications.
+### **Archived**
+Access your **archived emails** here to review previous messages and keep track of your communications.
 
 ---
 
 ## Viewing and Replying to Emails
 
-- Click on the **Actions** button next to an email to view its full content.
+- Click the **Actions** button above the email body to reply to or archive the email.
 - You can **reply directly** from this detailed view, streamlining your communication process.
 
 ---
@@ -49,7 +49,7 @@ Access your **sent emails** here to review previous messages and keep track of y
 
 - Regularly check the **Unread** filter to promptly respond to new messages.
 - **Archive** emails you have addressed or completed to keep your inbox organized.
-- Review your **Sent** folder regularly to track conversations and follow-ups.
+
 
 ---
 

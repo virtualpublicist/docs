@@ -9,7 +9,7 @@ section: content
 Launching your first outreach **campaign** on **Virtual Publicist** can help you connect with key industry contacts and significantly boost your visibility. Follow these straightforward steps to set up and launch your campaign effectively:
 
 <div style="max-width: 1000px; margin: 2em auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <img src="/assets/images/campaign-creation1.png" alt="Dashboard preview" style="width: 100%; height: 50%; display: block;">
+  <img src="/assets/images/campaign-creation2.png" alt="Dashboard preview" style="width: 100%; height: 50%; display: block;">
 </div>
 
 ---
@@ -32,42 +32,28 @@ Launching your first outreach **campaign** on **Virtual Publicist** can help you
 
 ---
 
-## Review and Edit Your Generated Email
-- On the next page, you'll see your **auto-generated email draft**.
-- Use the tooltip **"How to use this editor"** to guide you through editing the email content.
+## Message Body
 
-### Formatting and Tools:
-- **Press `/`**: Open the block tool menu to select text, image, video, or other content blocks.
-- **Enter**: Create a new content block (e.g., a paragraph).
-- **Shift + Enter**: Insert a line break within the same block.
-- **Backspace**: Delete the current block if it’s empty.
+When composing a message, the Message Body section offers several helpful tools to streamline your writing and editing process:
 
-### Navigation:
-- **Arrow Keys**: Navigate between blocks (up/down).
-- **Ctrl + A / Cmd + A**: Select all text in the current block. Press again to select all blocks.
-
-### Inline Styling (if enabled in tools):
-- **Ctrl + B / Cmd + B**: Bold text.
-- **Ctrl + I / Cmd + I**: Italicize text.
-- **Ctrl + K / Cmd + K**: Insert a hyperlink.
-
-### Block Actions:
-- **Drag Icon**: Drag and reorder blocks (if dragging is enabled).
-- **Three Dots Menu**: Access additional settings for blocks, such as deletion or alignment.
+- **AI Generate Email** - Use the AI-powered button to instantly generate a draft email based on your needs or prompts.
+- **Load Template** - Select from a variety of email templates to speed up your workflow and maintain consistency.
+- **Reset Email** - Clear the current message body and start fresh with a single click.
 
 ---
 
-## Schedule Your Outreach
-- Set the **date and time** for your campaign to launch.
-- Choose whether to **send messages immediately** or **schedule** for a future date and time.
-- Review the **campaign preview** carefully before finalizing.
+
+### Editing & Customization Options:
+- **Edit Generated Message**: Manually edit any part of the generated or templated email to personalize your message.
+- **Add Paragraph/Text**: Click the plus (+) button to insert a new paragraph or text block wherever you need more detail.
+- **Upload Image**: Use the image button to upload and embed images directly into your message.
+- **Move Paragraphs**: Rearrange your content by moving paragraphs up or down within the message body for better structure and flow.
 
 ---
 
 ## Launch and Monitor Your Campaign
-- Click **"Launch Campaign"** when ready.
+- Click **"Send Message"** when ready.
 - Track **responses and interactions** through your campaign dashboard.
-- **Monitor and analyze** the results to optimize future campaigns.
 
 ---
 

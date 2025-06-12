@@ -8,7 +8,7 @@ section: content
 
 Connecting with the right industry professionals is essential for effective outreach. **Virtual Publicist** provides an intuitive **search** function to help you find and manage contacts easily.
 
-![Alt text](/assets/images/search-contacts-1.png)
+![Alt text](/assets/images/search.png)
 
 
 ---
