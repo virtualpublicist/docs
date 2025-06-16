@@ -7,7 +7,7 @@ section: content
 # Lists
 The **Lists** section is your command center for organizing outreach and managing contacts. Whether you're targeting playlists, press, radio, or influencers, lists help streamline your workflow, save time, and keep campaigns consistent and effective.
 
-![Alt text](/assets/images/lists.png)
+![Alt text](/assets/images/VP_Lists.png)
 
 
 ---

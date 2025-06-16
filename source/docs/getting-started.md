@@ -11,9 +11,9 @@ Welcome to **Virtual Publicist**! This guide will help you set up your account, 
 ## Quick Navigation
 Explore the essential sections to maximize your Virtual Publicist experience:
 
-- [Profile Setup](/docs/profile-setup) - Learn how to create a standout profile.
-- [Contact Management](/docs/contact-management) - Discover how to manage your industry connections.
-- [Creating a Campaign](/docs/creating-campaign) - Step-by-step guide to launching effective campaigns.
+- [Profile Setup](/docs/creating-artist-profile) - Learn how to create a standout profile.
+- [Creating a Campaign](/docs/campaign-creation) - Step-by-step guide to launching effective campaigns.
+- [Press Release Management](/docs/press-release) - Learn how to create, organize, and publish impactful press releases.
 
 Follow these guides to make the most of Virtual Publicist and take your music promotion to the next level!
 

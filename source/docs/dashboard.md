@@ -10,7 +10,7 @@ section: content
 Virtual Publicist’s dashboard provides you with an intuitive interface designed to help you manage your artist profile, outreach campaigns, contacts, and more. Here's an overview to help you navigate and utilize the dashboard effectively:
 
 <div style="max-width: 1000px; margin: 2em auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <img src="/assets/images/dashboard.png" alt="Dashboard preview" style="width: 100%; height: 50%; display: block;">
+  <img src="/assets/images/VP_Dashboard.png" alt="Dashboard preview" style="width: 100%; height: 50%; display: block;">
 </div>
 
 ---

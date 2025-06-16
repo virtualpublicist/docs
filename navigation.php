@@ -19,10 +19,10 @@ return [
     'Lists' => 'docs/lists',
     'Profile Settings' => 'docs/public-profile-settings',
     'Search Contacts' => 'docs/search-and-use-contacts',
-    'Subscription Plan' => 'docs/subscription-plan',
-    'Roadmap' => 'docs/comingsoon',
-    'Dashboard1' => 'docs/dashboard-copy',
-    'About' => 'docs/about',
-    'About1' => 'docs/aboutt'
+    'Subscription Plan' => 'docs/subscription-plan'
+    //'Roadmap' => 'docs/comingsoon',
+    //'Dashboard1' => 'docs/dashboard-copy',
+    //'About' => 'docs/about',
+    //'About1' => 'docs/aboutt'
 
 ];

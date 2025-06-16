@@ -8,7 +8,7 @@ section: content
 
 Creating professional press releases is simplified using **Virtual Publicist’s Press Release Generator**. Follow these steps to create and save your press release effectively:
 
-![Alt text](/assets/images/press-release.png)
+![Alt text](/assets/images/VP_Press-Release.png)
 
 
 ---
@@ -45,6 +45,8 @@ You’ll also find additional tools:
 - Generate Content: Use AI to help write or improve your press release.
 - Load a Template: Start with a press release template for faster drafting.
 - Reset Message: Clear all fields and start fresh if needed.
+
+![Alt text](/assets/images/VP_Press-Release-form.png)
 
 ---
 

@@ -9,7 +9,7 @@ section: content
 Launching your first outreach **campaign** on **Virtual Publicist** can help you connect with key industry contacts and significantly boost your visibility. Follow these straightforward steps to set up and launch your campaign effectively:
 
 <div style="max-width: 1000px; margin: 2em auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <img src="/assets/images/campaign-creation2.png" alt="Dashboard preview" style="width: 100%; height: 50%; display: block;">
+  <img src="/assets/images/VP_Campaign-creation.png" alt="Dashboard preview" style="width: 100%; height: 50%; display: block;">
 </div>
 
 ---

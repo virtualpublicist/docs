@@ -8,7 +8,7 @@ section: content
 
 **Virtual Publicist** makes managing communication from your outreach campaigns straightforward through the intuitive **Inbox** feature. Follow the guide below to understand how to effectively manage your inbox:
 
-![Alt text](/assets/images/inbox.png)
+![Alt text](/assets/images/VP_Inbox.png)
 
 
 ---
