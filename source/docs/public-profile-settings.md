@@ -8,7 +8,7 @@ section: content
 
 Your **public profile settings** on **Virtual Publicist** allow you to control your online presence, showcase your music, and ensure the best possible matches with industry contacts. Follow the steps below to configure your profile:
 
-![Alt text](/assets/images/settings.png)
+![Alt text](/assets/images/VP_Profile-Settings.png)
 
 
 ---

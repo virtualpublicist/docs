@@ -8,7 +8,7 @@ section: content
 
 The **Settings** section is where you manage your personal information, security settings, and account status on Virtual Publicist. Keeping your profile up-to-date and secure ensures the best experience on the platform and helps us personalize your outreach, suggestions, and contact recommendations.
 
-![Alt text](/assets/images/settings.png)
+![Alt text](/assets/images/VP_Settings.png)
 
 
 ---
