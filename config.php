@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://localhost:3000',
     'production' => false,
     'siteName' => 'Virtual Publicist Documentation',
     'siteDescription' => 'Your go-to guide for mastering music PR with AI-powered tools.',
