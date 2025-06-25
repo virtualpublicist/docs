@@ -23,7 +23,7 @@
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
 
         <link rel="home" href="{{ $page->baseUrl }}">
-        <link rel="icon" href="/favicon.ico">
+        <link rel="icon" href="{{ $page->baseUrl }}/favicon.ico">
 
         @stack('meta')
 
@@ -32,7 +32,7 @@
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <link rel="stylesheet" href="{{ $page->baseUrl }}{{ mix('css/main.css', 'assets/build') }}">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
@@ -43,9 +43,8 @@
         <header class="flex items-center shadow bg-white border-b h-18 mb-8 py-4" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                    <a href="{{ $page->baseUrl }}" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         <img class="h-6 md:h-8 mr-3" src="{{ $page->baseUrl }}/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
-                        {{ $page }}
                         <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 mt-1 pr-4">Knowledge Base</h1>
                     </a>
                 </div>
@@ -64,7 +63,7 @@
             @yield('body')
         </main>
 
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <script src="{{ $page->baseUrl }}{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')
 
