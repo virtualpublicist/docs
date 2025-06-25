@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://jigsaw-docs-template.tighten.co',
+    'baseUrl' => 'https://virtualpublicist.github.io/docs',
     'production' => true,
 
     // DocSearch credentials
